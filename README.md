@@ -7,11 +7,11 @@
 
 ###  projetos que desenvolvidos
 <div>
-  <a href="https://github.com/jaqueuchoab/EasyCaixa">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaqueuchoab&repo=EasyCaixa&theme=jolly" />
+  <a href="https://github.com/jaqueuchoab/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaqueuchoab&repo=&theme=jolly" />
   </a>
-  <a href="https://github.com/jaqueuchoab/SistemaPetshop">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaqueuchoab&repo=SistemaPetshop&theme=jolly" />
+  <a href="https://github.com/jaqueuchoab/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaqueuchoab&repo=&theme=jolly" />
   </a>
 </div>
     
