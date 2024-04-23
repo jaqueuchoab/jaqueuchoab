@@ -5,7 +5,7 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaqueuchoab&layout=compact&langs_count=7&theme=jolly"/>
 </div>
 
-###  projetos que desenvolvidos
+###  principais projetos
 <div>
   <a href="https://github.com/jaqueuchoab/EasyCaixa">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaqueuchoab&repo=EasyCaixa&theme=jolly" />
