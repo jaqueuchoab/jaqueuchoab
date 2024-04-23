@@ -1,9 +1,12 @@
-## Oiii, sou a Jaqueline Uchôa
+## oiii, sou a Jaqueline :)
 <div>
   <a href="https://github.com/jaqueuchoab">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=jaqueuchoab&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaqueuchoab&layout=compact&langs_count=7&theme=jolly"/>
-  <hr>
+</div>
+
+###  projetos que desenvolvidos
+<div>
   <a href="https://github.com/jaqueuchoab/EasyCaixa">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaqueuchoab&repo=EasyCaixa&theme=jolly" />
   </a>
