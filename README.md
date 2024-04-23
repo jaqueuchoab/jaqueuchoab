@@ -1,8 +1,8 @@
 ## Oiii, sou a Jaqueline Uchôa
 <div>
   <a href="https://github.com/jaqueuchoab">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jaqueuchoab&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaqueuchoab&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jaqueuchoab&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaqueuchoab&layout=compact&langs_count=7&theme=jolly"/>
   <hr>
   <a href="https://github.com/jaqueuchoab/EasyCaixa">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaqueuchoab&repo=EasyCaixa&theme=jolly" />
