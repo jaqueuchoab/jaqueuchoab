@@ -8,10 +8,10 @@
 ###  principais projetos :computer:
 <div>
   <a href="https://github.com/jaqueuchoab/EasyCaixa">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaqueuchoab&repo=EasyCaixa&theme=jolly" />
+    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaqueuchoab&repo=EasyCaixa&theme=jolly" />
   </a>
   <a href="https://github.com/jaqueuchoab/SistemaPetshop">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaqueuchoab&repo=SistemaPetshop&theme=jolly" />
+    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaqueuchoab&repo=SistemaPetshop&theme=jolly" />
   </a>
 </div>
     
